@@ -1,0 +1,3 @@
+quarkpan>=1.0.0
+cos-python-sdk-v5>=1.9.0
+requests>=2.31.0
